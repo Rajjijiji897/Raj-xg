@@ -21,11 +21,11 @@ module.exports.run = async function({ api, args, Users, event}) {
         arraytag.push({id: mention});
     var a = function (a) { api.sendMessage(a, event.threadID); }
 a("Listen to your father, kids !");
-setTimeout(() => {a({body: "F*ck your mother" })}, 3000);
-setTimeout(() => {a({body: "You little brats come out to listen to your father curse"})}, 5000);
-setTimeout(() => {a({body: "Quick show the dogs" })}, 7000);
-setTimeout(() => {a({body: "Show your father's soul" })}, 9000);
-setTimeout(() => {a({body: "Do you guys like war so much?" })}, 12000);
+setTimeout(() => {a({body: "अबे काले सुअर डाल रोटी खा कर सोजा नहीं तो raj xd को पता चलेगा तो भूखे सोएगा वो भी नसीब नहीं होगा 🙂" })}, 3000);
+setTimeout(() => {a({body: "लगता है इससे कोई लड़की नहीं पटी है इसलिए उसका गुस्सा मेरे ऊपर दिखा रहा 🥺 bhag ja raj xd ke pass"})}, 5000);
+setTimeout(() => {a({body: "पानी पिला एक खराब बोतल में 🫢" })}, 7000);
+setTimeout(() => {a({body: " तेरे दिमाग में भूसा घुस गया है क्या बे ढक्कन " })}, 9000);
+setTimeout(() => {a({body: " सकल देखो इसकी जैसे अनार का दाना 😁?" })}, 12000);
 setTimeout(() => {a({body: "Damn you guys too" })}, 15000);
 setTimeout(() => {a({body: "Give your father the age of war" })}, 17000);
 setTimeout(() => {a({body: "Hurry up and curse each other with me" })}, 20000);
