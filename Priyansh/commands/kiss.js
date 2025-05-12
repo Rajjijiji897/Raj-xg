@@ -3,7 +3,7 @@ module.exports.config = {
     version: "2.0.0",
     hasPermssion: 0,
     credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
-    description: "Kiss the person you want",
+    description: "Kiss saram nahi aati raj xd ke samne kiss krte ",
     commandCategory: "Love",
     usages: "kiss [tag]",
     cooldowns: 5,
