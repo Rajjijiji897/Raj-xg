@@ -19,10 +19,10 @@ module.exports.run = async({api,event,args,client,Users,Threads,__GLOBAL,Currenc
 const axios = global.nodemodule["axios"];
 const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
-   var hi = ["『٭』 😝 AADI SHRIVTASTAV『٭』-HOT-VIDOS"];
+   var hi = ["『٭』 😝 RAJ XD RAJ XD『٭』-HOT-VIDOS"];
   var know = hi[Math.floor(Math.random() * hi.length)];
   var link = [
-   "https://drive.google.com/uc?id=1a7XsNXizFTTlSD_gRQwK4bDA3HPam56W",
+   "https://youtube.com/shorts/2et5_OCWsA8?si=XZpH_q8U89waCvSC",
     "https://drive.google.com/uc?id=1aF6H24ILE6wIFGW3M3BGXg8l63ktP8B3",
     "https://drive.google.com/uc?id=1_ysGMbGZQexheta6tuSBhJQDeAMioXr_",
     "https://drive.google.com/uc?id=1bTwYfovA2YKCs_kskWyp2GHh7K9XHQN0",
@@ -44,7 +44,7 @@ const fs = global.nodemodule["fs-extra"];
     "https://drive.google.com/uc?id=1ta1ujBjmcvxSuYVwQ3oEXIJsnPCW2VZO",
     "https://drive.google.com/uc?id=1svD1h3vEYbwxMeU5v4c2wQPBaU90fcEx",
     "https://drive.google.com/uc?id=1seUwXvoVFyCzOA5SykF9uxhlwuwLzPn0",
-    "https://drive.google.com/uc?id=1t2oFQmOtw-6V_ahWzYo08v1g2oGnkhPL",
+    "https://www.instagram.com/reel/DInyYlzThFF/?igsh=MW0wcjJtajh6bnFkdQ",
 
 
 ];
