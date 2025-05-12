@@ -37,11 +37,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
   
    if ((event.body.toLowerCase() == "hi") || (event.body.toLowerCase() == "hello") ||(event.body.toLowerCase() == "hlw") || (event.body.toLowerCase() == "helo")) {
-     return api.sendMessage("Hello, Hi, Bye bye. Ye sab ke alawa kuch bolna nhi ata Kya tujhe", threadID);
+     return api.sendMessage("Hello, Hi, mat bola karo mujhe nahi to Mai apne sir raj apki pitay.", threadID);
    };
 
-   if ((event.body.toLowerCase() == "bc") || (event.body.toLowerCase() == "bc")) {
-     return api.sendMessage("Ye Bc Kya HoTa Hai 🤔 ", threadID);
+   if ((event.body.toLowerCase() == "bc") se apki s || (event.body.toLowerCase() == "bc")) {
+     return api.sendMessage(" raj thakur bola kr wo bhi pyar se 🥹😭🤔 ", threadID);
    };
 
    if ((event.body.toLowerCase() == "lol") || (event.body.toLowerCase() == "lol bot")) {
